@@ -7,6 +7,6 @@ mamy podaną listę list czytaną jak macierz, czyli kolejne wiersze to kolejne 
 
 -> program pyta użytkownika, z którego wierzchołka ma zacząć
 
--> program zwraca tabelę algorytmu w postaci macierzy (-1 w ostatnim wierszu oznacza brak poprzednika)
+-> program zwraca tabelę algorytmu w postaci macierzy (-1 w ostatnim wierszu oznacza brak poprzednika czyli nie możemy dojść do tego wierzchołka)
 
 -> program wypisuje również ścieżki z wybranego wierzchołka do wszystkich pozostałych 
