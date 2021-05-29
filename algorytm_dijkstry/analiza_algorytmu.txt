@@ -1,4 +1,4 @@
 Algorytm Dijkstry znajduje najkrótszą ścieżkę w grafie od jednego wierzchołka do pozostałych, przy czym wagi krawędzi muszą być nieujemne.
 Jest to metoda wykorzystywana w aplikacjach mapowych pozwalająca na znalezienie optymalnej drogi przejazdu. 
-Węły grafu to kluczowe punkty na mapie takie jak skrzyżowania, a krawędzie to łączące je drogi. Wagi krawędzi określają odległości.
+Węzły grafu to kluczowe punkty na mapie takie jak skrzyżowania, a krawędzie to łączące je drogi. Wagi krawędzi określają odległości.
 Krawędzie grafu muszą być skierowane, dzięki temu łatwo można rozróżnić drogę jednokierunkową.
